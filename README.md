@@ -11,8 +11,6 @@
 # Sobre mi:
    ✋🏼 Tengo 25 años <br>
    <br>
-   🎹 Soy tecladista <br>
-   <br>
    🌱 Actualmente aprendiendo: ⚛ React.js y Typescript <br>
    <br>
    ⚡ Metas: Node.js y Next.js <br>
